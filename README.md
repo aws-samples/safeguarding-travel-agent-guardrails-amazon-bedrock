@@ -8,6 +8,8 @@ In this example, we explore a solution for securing a virtual travel agent power
 
 For building our chatbot we leverage a combination of AWS services and validation techniques to create a secure and responsible virtual travel agent that operates within predefined boundaries.
 
+Follow the instructions in the notebook: [Safeguarding-travel-agent-Guardrails-Amazon-Bedrock](Safeguarding-travel-agent-Guardrails-Amazon-Bedrock.ipynb)
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
